@@ -58,19 +58,6 @@ content:
           My first project.
         description: | # this will include new lines to allow paragraphs
           JSP 기반으로 만든 저의 1차 프로젝트입니다. 스크린골프 예약 및 회원관리 사이트이며, 이 프로젝트 덕분에 많은 스킬들을 배우고 이해했습니다.
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: # 직장이름
-        link: #직장사이트
-        # link_text: boringcompany.com
-        sub_title: #..개발
-        caption: # November 2023 - Present
-        quote: >
-          ##..개발자
-        description: | # this will include new lines to allow paragraphs
-            #몇달동안 어떤일을 했는지
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
